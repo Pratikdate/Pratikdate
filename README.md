@@ -1,25 +1,30 @@
-Hey👋, Wellcome to my Profile
 
-<spam style="margiin-left:20px"><img src='https://github.com/Pratikdate/Pratikdate/assets/91735895/85ec8457-7b41-48d8-a500-76bd61cd19a4' style="height: 400px;"/></spam>
+
+# Hey👋, Wellcome to my Profile
+
+
+<div style="margin: 0 0 0 100px;"><img src='https://github.com/Pratikdate/Pratikdate/assets/91735895/85ec8457-7b41-48d8-a500-76bd61cd19a4' style="height: 400px;"/></div>
+
+<br/>
 
 # 💫 About Me:
+  <div style="text-aline:center;margin:10px;">
+  <p >I am a computer science student with a passion for technology, programming, and artificial intelligence. 🧠</p>
   
-  I am a computer science student with a passion for technology, programming, and artificial intelligence. 🧠
+ <p> I am always hungry for new knowledge and strive to explore the latest trends and tools that help me create innovative solutions. 💻</p>
   
-  I am always hungry for new knowledge and strive to explore the latest trends and tools that help me create innovative solutions. 💻
+  <p>My passion for artificial intelligence goes beyond my studies - I aim to understand its various aspects and how it can be applied to solve real-world problems.</p>
   
-  My passion for artificial intelligence goes beyond my studies - I aim to understand its various aspects and how it can be applied to solve real-world problems.
+  <p>I believe that the future of technology lies in the hands of AI, and I am excited to be a part of that future.</p>
   
-  I believe that the future of technology lies in the hands of AI, and I am excited to be a part of that future.
-  
-  On my GitHub, you will find various projects related to programming and artificial intelligence that showcase my growth and learning in these areas.
-  
-  With each project, I aim to learn something new and enhance my skills.
-  
-  Feel free to explore my projects and reach out to me if you have any questions or would like to discuss potential collaboration opportunities.
-  
-  Thank you for visiting my profile. I'm glad you're here! 🎉
+  <p>On my GitHub, you will find various projects related to programming and artificial intelligence that showcase my growth and learning in these areas.</p>
 
+  <p>With each project, I aim to learn something new and enhance my skills.</p>
+  
+  <p>Feel free to explore my projects and reach out to me if you have any questions or would like to discuss potential collaboration opportunities.</p>
+  
+  <p>Thank you for visiting my profile. I'm glad you're here! 🎉</p>
+</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Pratik0396) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pratik-date-883023244?trk=contact-info) 
