@@ -2,9 +2,9 @@
 
 # Hey👋, Wellcome to my Profile
 
+[![An image of @pratikdate's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pratikdate)](https://holopin.io/@pratikdate)
 
-
-<div style="margin: 0 0 0 100px;"><img src='https://github.com/Pratikdate/Pratikdate/assets/91735895/85ec8457-7b41-48d8-a500-76bd61cd19a4' style="height: 400px;"/></div>
+<div style="margin: 0 0 0 100px; display:hidden;"><img src='https://github.com/Pratikdate/Pratikdate/assets/91735895/85ec8457-7b41-48d8-a500-76bd61cd19a4' style="height: 400px;"/></div>
 
 <br/>
 
